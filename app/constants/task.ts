@@ -1,0 +1,6 @@
+
+export const FETCHING_TASKS ='FETCHING_TASKS';
+export const FETCHED_TASKS ='FETCHED_TASKS';
+export const FETCHING_TASK ='FETCHING_TASK';
+export const FETCHED_TASK ='FETCHED_TASK';
+
