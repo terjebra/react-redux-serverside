@@ -36,7 +36,7 @@ Due to type constraint there is a problem with React-router and ReduxAsyncConnec
 with
 
 <code>
-    render?: (renderProps: React.Props<{}>) => any;
+  render?: (renderProps: React.Props<{}>) => RouterContext | any;
 </code>
 
 Todo: Create typings for ReduxAsyncConnect to avoid modifing existing typings
